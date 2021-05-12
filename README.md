@@ -1,5 +1,5 @@
-I - [Jogo](https://www.google.com)
+I - [Jogo](https://www.google.com) (Completo)
 
-II - Aplicativo Multimídia
+II - Aplicativo Multimídia (Programando)
 
-III - Aplicativo Windows
+III - Aplicativo Windows (Em breve)
