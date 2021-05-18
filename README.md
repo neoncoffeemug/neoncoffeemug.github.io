@@ -1,6 +1,6 @@
 I - Jogo (Completo) - Abre com [Construct3](https://editor.construct.net/)
 
-II - Aplicativo Multimídia (Programando) - Abre com [Processing](https://processing.org/download/)
+II - Aplicativo Multimídia (Completo) - Abre com [Processing](https://processing.org/download/)
 
 III - Aplicativo Windows (Em breve)
 
